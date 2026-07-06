@@ -4,12 +4,8 @@
 
 Email Me **bashua37@gmail.com** For Collaboration, Projects, or Anything Else. 
 
- **I'm currently working on:** Completing my economics degree at university
- **I'm currently learning:** The basics of data analysis and statistics
- **I'm looking to collaborate on:** Academic research, economic discussions, or beginner data projects
- **Ask me about:** Microeconomics, macroeconomics, and market trends
- **How to reach me:** Shoot me an email at bashua37@gmail.com
- **Fun fact:** I analyze real-world trends but leave the heavy coding to the machines!
+I'm currently finishing up my economics degree while picking up the basics of data analysis and statistics on the side. I enjoy digging into microeconomics, macroeconomics, and market trends, and I'm always up for collaborating on academic research, economic discussions, or beginner-friendly data projects. Fun fact: I love analyzing real-world trends, but I happily leave the heavy coding to the machines!
+Email me at bashua37@gmail.com for collaboration, projects, or anything else.
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bashua37-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
