@@ -4,7 +4,7 @@
 
 Email Me **bashua37@gmail.com** For Collaboration, Projects, or Anything Else. 
 
- **I'm currently working on:** Completing my economics degree at university
+ **I'm currently working on:** Completing my economics degree at university\n
  **I'm currently learning:** The basics of data analysis and statistics
  **I'm looking to collaborate on:** Academic research, economic discussions, or beginner data projects
  **Ask me about:** Microeconomics, macroeconomics, and market trends
