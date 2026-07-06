@@ -2,8 +2,6 @@
 
 **An Economics Undergraduate Student interested in data and research**
 
-Email Me **bashua37@gmail.com** For Collaboration, Projects, or Anything Else. 
-
 I'm currently finishing up my economics degree while picking up the basics of data analysis and statistics on the side. I enjoy digging into microeconomics, macroeconomics, and market trends, and I'm always up for collaborating on academic research, economic discussions, or beginner-friendly data projects. Fun fact: I love analyzing real-world trends, but I happily leave the heavy coding to the machines!
 Email me at bashua37@gmail.com for collaboration, projects, or anything else.
 
